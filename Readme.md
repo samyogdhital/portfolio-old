@@ -1,7 +1,14 @@
+## Clone
+
+![](image/clone.png)
+
+Copy the link.
+Just clone this repo with `git clone`
+
 ## Install
 
-Just clone this repo with `git clone`
-and install through `npm install`
+Change the directory to portfolio and
+install through `npm install`
 
 ## Run
 
