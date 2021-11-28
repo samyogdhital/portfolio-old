@@ -1,8 +1,8 @@
-##Install
+## Install
 
 Just clone this repo with `git clone`
 and install with `npm install`
 
-##Run
+## Run
 
 To run this project just use `npm start`.
