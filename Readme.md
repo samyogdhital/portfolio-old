@@ -1,7 +1,7 @@
 ## Install
 
 Just clone this repo with `git clone`
-and install with `npm install`
+and install through `npm install`
 
 ## Run
 
