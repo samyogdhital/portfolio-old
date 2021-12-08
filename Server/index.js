@@ -1,5 +1,4 @@
 const express = require("express");
-const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const config = require("./config");
@@ -23,12 +22,3 @@ app.use("/ranks", rankRoute);
 app.listen(Port, () => {
   console.log(`Server Running ${Port}`);
 });
-
-mongoose
-  .connect(uri)
-  .then(function () {
-    console.log("Moongose Connection Successful");
-  })
-  .catch(function (err) {
-    console.log(err);
-  });
