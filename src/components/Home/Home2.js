@@ -51,20 +51,14 @@ function Home2() {
                 <b className="purple"> React.js.</b>
               </i>
               <br />
-              <br />
-
-              I even do some 
+              <br />I even do some
               <i>
-                <b className="purple">
-              {" "} Research 
-              </b>
+                <b className="purple"> Research</b>
+              </i>{" "}
+              on amazing topic for my
+              <i>
+                <b className="purple"> Youtube Videos. (MountFacts)</b>
               </i>
-               {" "}on amazing topic for my 
-               <i>
-                <b className="purple">
-               {" "} Youtube Videos. (MountFacts) 
-               </b>
-               </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -92,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Mountfacts1"
+                  href="https://twitter.com/samyog_dhital"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

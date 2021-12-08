@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Mountfacts1"
+                href="https://twitter.com/samyog_dhital"
                 style={{ color: "white" }}
               >
                 <AiOutlineTwitter />
