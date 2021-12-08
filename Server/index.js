@@ -1,10 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
-// const config = require("./config");
 const likeRoute = require("./Routes/likeMethods");
 const rankRoute = require("./Routes/rankMethods");
-// const uri = config.getSecretToken();
 
 const app = express();
 const Port = process.env.PORT || 3600;
